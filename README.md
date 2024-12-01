@@ -1,2 +1,2 @@
 # DIO-Trilha-C-Sharpe
-Repositório para a trilha c# da dio
+Repositório para a trilha c# da DIO.Me
